@@ -16,6 +16,6 @@
    ensure rag
 
 
-  [!TIP]
+  **`> [!TIP]`**
   You can change the default keybind in your game settings:
   ESC -> Settings -> Key Bindings -> FiveM -> Toggle Player Ragdoll
